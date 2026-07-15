@@ -1,6 +1,8 @@
 # Itadori Yuji
 >Jujutsu Kaisen
 
+<span style="background:#808080;color:white;padding:3px 8px;border-radius:5px">Common</span>
+
 ## `Passive`
 **Superhuman Physique**
 >Yuji's body is naturally stronger than a normal human, allowing him to withstand heavy impacts

@@ -1,7 +1,11 @@
 site_name: Anime Bump
-site_description: Design documentation for Anime Arena
-site_author: Seu Nome
+site_description: Design documentation for Anime Bump
+site_author: sasthim
 site_url: https://sasthim.github.io/anime-bump/
+
+plugins:
+  - search
+  - awesome-pages
 
 theme:
   name: material
@@ -16,21 +20,3 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
-
-nav:
-  #- Home: index.md
-
-  - Character Rarities: rarities.md
-
-  - Character List:
-    - Gojo: characters/gojo.md
-    - Luffy: characters/luffy.md
-
-  - WIP Characters:
-      - Sung Jin-Woo: character-ideas/sung_jinwoo.md
-      - Madara Uchiha: character-ideas/madara_uchiha.md
-      - Ryomen Sukuna: character-ideas/ryoumen_sukuna.md
-      - Escanor: character-ideas/escanor.md
-      - Killua: character-ideas/killua_zoldyck.md
-      - Dio Brando: character-ideas/dio_brando.md
-      - Levi Ackerman: character-ideas/levi_ackerman.md
