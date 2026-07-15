@@ -22,13 +22,14 @@ nav:
   - Character concept: concept.md
 
   - Characters:
-    - nada ainda
+    - Gojo: characters/gojo.md
+    - Ruffy: characers/ruffy.md
 
   - WIP Characters:
-      - Sung Jin-Woo: launch-characters/sung_jinwoo.md
-      - Madara Uchiha: launch-characters/madara_uchiha.md
-      - Ryomen Sukuna: launch-characters/ryoumen_sukuna.md
-      - Escanor: launch-characters/escanor.md
-      - Killua: launch-characters/killua_zoldyck.md
-      - Dio Brando: launch-characters/dio_brando.md
-      - Levi Ackerman: launch-characters/levi_ackerman.md
+      - Sung Jin-Woo: character-ideas/sung_jinwoo.md
+      - Madara Uchiha: character-ideas/madara_uchiha.md
+      - Ryomen Sukuna: character-ideas/ryoumen_sukuna.md
+      - Escanor: character-ideas/escanor.md
+      - Killua: character-ideas/killua_zoldyck.md
+      - Dio Brando: character-ideas/dio_brando.md
+      - Levi Ackerman: character-ideas/levi_ackerman.md
