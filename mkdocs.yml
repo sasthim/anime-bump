@@ -20,11 +20,11 @@ theme:
 nav:
   #- Home: index.md
 
-  - Character concept: concept.md
+  - Character Rarities: rarities.md
 
-  - Characters:
+  - Character List:
     - Gojo: characters/gojo.md
-    - Ruffy: characers/ruffy.md
+    - Luffy: characters/luffy.md
 
   - WIP Characters:
       - Sung Jin-Woo: character-ideas/sung_jinwoo.md
