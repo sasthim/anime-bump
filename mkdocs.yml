@@ -1,6 +1,7 @@
-site_name: Anime Arena Design
+site_name: Anime Bump
 site_description: Design documentation for Anime Arena
 site_author: Seu Nome
+site_url: https://sasthim.github.io/anime-bump/
 
 theme:
   name: material
