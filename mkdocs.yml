@@ -1,0 +1,34 @@
+site_name: Anime Arena Design
+site_description: Design documentation for Anime Arena
+site_author: Seu Nome
+
+theme:
+  name: material
+
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: cyan
+
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  #- Home: index.md
+
+  - Character concept: concept.md
+
+  - Characters:
+    - nada ainda
+
+  - WIP Characters:
+      - Sung Jin-Woo: launch-characters/sung_jinwoo.md
+      - Madara Uchiha: launch-characters/madara_uchiha.md
+      - Ryomen Sukuna: launch-characters/ryoumen_sukuna.md
+      - Escanor: launch-characters/escanor.md
+      - Killua: launch-characters/killua_zoldyck.md
+      - Dio Brando: launch-characters/dio_brando.md
+      - Levi Ackerman: launch-characters/levi_ackerman.md
