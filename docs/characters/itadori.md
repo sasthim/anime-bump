@@ -1,7 +1,7 @@
 # Itadori Yuji
 >Jujutsu Kaisen
 
-<span style="background:#808080;color:white;padding:3px 8px;border-radius:5px">Common</span>
+<span style="background:#2196f3;color:white;padding:3px 8px;border-radius:5px">Rare</span>
 
 ## `Passive`
 **Superhuman Physique**
