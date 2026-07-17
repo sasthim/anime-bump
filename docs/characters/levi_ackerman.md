@@ -2,8 +2,8 @@
 >Attack on Titan
 
 ## `Passive`
-**Mobilidade ODM**
->Ao atingir uma parede, ricocheteia uma vez sem perder velocidade nem força
+**ODM Mobility**
+>Levi collides with a wall, he immediately bounces once without losing momentum
 
 * Effect:
 * Duration:
@@ -11,7 +11,8 @@
 
 ## `Skill`
 **Spin Attack**
->Ao atingir um inimigo, gira ao redor dele, cortando-o e empurrando-o
+>Levi rapidly circles the target with his ODM Gear, slashing them before launching them away
+<!-- Maybe make him slash everyone he passes close to and when he collides then trigger the skill once --> 
 
 * Damage:
 * Range:
@@ -21,7 +22,7 @@
 
 ## `Ultimate`
 **Humanity's Strongest**
->Continua ricocheteando pela arena até o início de seu próximo turno
+>Levi cannot stop moving until the start of his next turn
 
 **Details**
 * Damage:
