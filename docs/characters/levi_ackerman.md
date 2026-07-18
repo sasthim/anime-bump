@@ -3,7 +3,7 @@
 
 ## `Passive`
 **ODM Mobility**
->Levi collides with a wall, he immediately bounces once without losing momentum
+>When Levi collides with a wall, he immediately bounces once without losing momentum
 
 * Effect:
 * Duration:
